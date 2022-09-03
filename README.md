@@ -48,6 +48,7 @@ To build out a Social Media Dashboard and get it looking as close to the design 
 - Flexbox
 - CSS Grid
 
+The _index.css files in `/utils` will load all the other scss files as needed. 
 
 ### What I learned
 
