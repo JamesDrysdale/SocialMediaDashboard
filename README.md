@@ -52,6 +52,9 @@ The _index.css files in `/utils` will load all the other scss files as needed.
 
 ### What I learned
 
+- I leaned how to use SCSS mixins to make the code more DRY and easier to adjust in the future if certain values, such as breakpoints, need to be changed.
+-
+
 
 ### Continued development
 
