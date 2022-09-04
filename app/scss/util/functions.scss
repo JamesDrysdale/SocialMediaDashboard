@@ -1,0 +1,5 @@
+// This function converts pixels to rems
+// 16 pixels = 1 rem in most browsers
+@function rem($pixels, $context: 16){
+    @return ($pixels / $context) * 1rem;
+}

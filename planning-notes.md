@@ -28,6 +28,7 @@ If the toggle option needs three values and therefore three positions on a scale
 
 **References**: 
 - [CSS Tricks: Updating a CSS variable with Javascript](https://css-tricks.com/updating-a-css-variable-with-javascript)
+- [CSS Tricks: px to em Functions](https://css-tricks.com/snippets/sass/px-to-em-functions/) - How to calculate ems for given px values
 
 <hr />
 
